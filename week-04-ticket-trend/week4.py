@@ -1,4 +1,3 @@
-#Exercise: Forecasting Next Quarter’s Support Ticket Volume
 
 #Three more weeks of ticket data have come in, and leadership wants to know whether the linear trend from Week 3 is still holding:
 
